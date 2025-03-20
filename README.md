@@ -5,6 +5,12 @@
 
 Este repositório guarda minha jornada de aprendizagem em programação web durante um período desafiador. Todos os projetos aqui presentes foram desenvolvidos **exclusivamente pelo celular Android**, em condições não ideais, mas com muita determinação! 💪
 
+## 📜 Certificado de Conclusão
+**Introdução à Programação com HTML e CSS**  
+*Centro Urbano de Cultura, Arte, Ciência e Esporte (CUCA) - Janeiro de 2023*
+
+[![Certificado HTML/CSS](https://girlfromfortaleza.github.io/PortfolioArte-HTML/techtml.PNG)](https://girlfromfortaleza.github.io/PortfolioArte-HTML/techtml.PNG)
+
 ## 💡 Contexto Motivacional
 - 📱 Desenvolvimento 100% mobile (sem acesso a computador na época)
 - ⏳ Exercícios feitos em tempo real durante as aulas online
