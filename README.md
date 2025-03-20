@@ -7,7 +7,7 @@ Este repositório guarda minha jornada de aprendizagem em programação web dura
 
 ## 📜 Certificado de Conclusão
 **Introdução à Programação com HTML e CSS**  
-*Centro Urbano de Cultura, Arte, Ciência e Esporte (CUCA) - Janeiro de 2023*
+*Centro Urbano de Cultura, Arte, Ciência e Esporte (CUCA) - Março de 2023*
 
 [![Certificado HTML/CSS](https://girlfromfortaleza.github.io/PortfolioArte-HTML/techtml.PNG)](https://girlfromfortaleza.github.io/PortfolioArte-HTML/techtml.PNG)
 
